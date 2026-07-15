@@ -178,10 +178,25 @@ function App() {
     <span>JavaScript</span>
   </div>
 
-  <div className="project-buttons">
+ <div className="project-buttons">
+
+  <a
+    href="https://github.com/Anjali-creater/fruit-juice-website"
+    target="_blank"
+    rel="noreferrer"
+  >
     <button>GitHub</button>
+  </a>
+
+  <a
+    href="http://fruit-juice-website.netlify.app/"
+    target="_blank"
+    rel="noreferrer"
+  >
     <button className="contact">Live Demo</button>
-  </div>
+  </a>
+
+</div>
 
 </div>
 
@@ -206,9 +221,24 @@ function App() {
   </div>
 
   <div className="project-buttons">
+
+  <a
+    href="https://github.com/Anjali-creater/student-performance-predictor"
+    target="_blank"
+    rel="noreferrer"
+  >
     <button>GitHub</button>
+  </a>
+
+  <a
+    href="https://student-performance-predictor-anh5w8j88kccj4rfwrwcbj.streamlit.app/"
+    target="_blank"
+    rel="noreferrer"
+  >
     <button className="contact">Live Demo</button>
-  </div>
+  </a>
+
+</div>
 
 </div>
 </div>
@@ -236,15 +266,11 @@ function App() {
 
   <div className="cert-grid">
 
-    ...
-
   </div>
 
 </section>
 
-  <h2>Certifications</h2>
-
-  <div className="cert-grid">
+    <div className="cert-grid">
 
     <div className="cert-card">
       <h3>☁️ AWS Academy Cloud Foundations</h3>
